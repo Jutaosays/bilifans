@@ -3,7 +3,7 @@ import requests
 import time
 from datetime import datetime, timedelta
 
-uid = '3341680'
+uid = '在这里输入up主uid号'
 
 while True:
     url = f'https://api.bilibili.com/x/web-interface/card?mid={uid}'
